@@ -1,0 +1,17 @@
+the first block
+
+ {
+    "hash": "00fa92d3263b88aca169c5309c4cf127ba9d982a293283a9b4bc95d3ea5fcfb6",
+    "previousHash": "0",
+    "data": "Hi im the first block",
+    "timeStamp": 1526817626597,
+    "nonce": 460
+  },
+
+  {
+    "hash": "00fbb9a86268c9ba672729ec1e3278aa687b9cfc877e2e60f9bd0902eeeeecad",
+    "previousHash": "0",
+    "data": "Hi im the first block",
+    "timeStamp": 1526818151320,
+    "nonce": 389
+  },
